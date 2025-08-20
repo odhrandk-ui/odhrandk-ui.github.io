@@ -1,0 +1,21 @@
+img{
+    float: top;
+   
+}
+
+body{
+    background-image: url("Arranmore\ graveyard.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    font-family: sans-serif;
+    font-size: 70%;
+    color: white;
+    float: right;
+    
+}
+
+h1{
+    font-family: sans-serif;
+}
